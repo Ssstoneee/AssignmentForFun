@@ -11,5 +11,8 @@
         <module name="AssessmentForFun" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Assessment2Sunday" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
